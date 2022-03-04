@@ -4,5 +4,9 @@ shjdkjfdss
 ok_new fiix
 testing the feature
 all time
-ok last
-fine day
+<<<<<<< HEAD
+#ok last
+#fine day
+=======
+is it fine
+>>>>>>> right
